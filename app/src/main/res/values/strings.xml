@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ElectronicsNotes</string>
+
+    <string-array name="main_menu">
+        <item>Direct Current DC</item>
+        <item>Alternative Current AC</item>
+        <item>Resistor</item>
+        <item>Capacitor</item>
+        <item>Inductor</item>
+        <item>Transformer</item>
+        <item>Transistor BJT</item>
+        <item>Transistor MOS</item>
+        <item>Transistor FET</item>
+        <item>555 Timer</item>
+        <item>D Flip Flop</item>
+        <item>K Flip Flop</item>
+        <item>JK Flip Flop</item>
+        <item>Integrated Circuit IC</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="dc_menu">
+        <item></item>
+    </string-array>
+</resources>
